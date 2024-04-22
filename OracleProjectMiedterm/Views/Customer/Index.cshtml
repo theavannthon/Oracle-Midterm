@@ -1,0 +1,113 @@
+﻿@model IEnumerable<OracleProjectMiedterm.Models.Customer>
+@{
+    ViewData["Title"] = "Index";
+
+}
+<style>
+    .custom-table tr {
+        background-color: saddlebrown;
+    }
+</style>
+<div class="card">
+    <div class="card-header">
+        <h2 class="card-title">Customer List</h2>
+    </div>
+    <div class="card-body">
+        <p>
+            <a class="btn btn-primary  float-right " asp-action="Create"><i class="fa-solid fa-square-plus"></i>  Add New Customer</a>
+        </p>
+        <div class="form-group ml-2">
+            <form asp-action="Index" asp-controller="Customer">
+                <input name="searchtext" class="form-control m-lg-2" type="search" placeholder="Search" />
+
+                <button class="btn btn-success ml-1" type="submit"><i class="fa-solid fa-magnifying-glass"></i> Search </button>
+                <a asp-action="Index" class="btn btn-danger"><i class="fa-solid fa-delete-left"></i> Book List</a>
+
+            </form>
+        </div>
+        <table class="table custom-table" style="background-color: saddlebrown;">
+            <thead>
+                <tr >
+                    <th>
+                        @Html.DisplayNameFor(model => model.CustomerId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.CustomerCode)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Images)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.CustomerName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Sex)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Dob)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Pob)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Phone)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Address)
+                    </th>
+                    @*   <th>
+                    @Html.DisplayNameFor(model => model.IsHidden)
+                    </th> *@
+
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr >
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CustomerId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CustomerCode)
+                        </td>
+                        <td>
+                            <img src="/Customer/@item.Images" class="img-fluid img-thumbnail" style="max-width: 50px; max-height: 70px;" />
+                          
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CustomerName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Sex)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Dob)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Pob)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Phone)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Address)
+                        </td>
+                        @*    <td>
+                    @Html.DisplayFor(modelItem => item.IsHidden)
+                    </td> *@
+                        <td>
+                            <a asp-action="Edit" asp-controller="Customer" asp-route-CustomerId="@item.CustomerId" class="btn btn-outline-primary"><i class="fas fa-edit"></i> Edit</a>
+                            <a asp-action="Delete" asp-controller="Customer" asp-route-CustomerId="@item.CustomerId" class="btn btn btn-outline-danger"><i class="fa-solid fa-trash"></i> Delete</a>
+
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+
+        </table>
+    </div>
+</div>

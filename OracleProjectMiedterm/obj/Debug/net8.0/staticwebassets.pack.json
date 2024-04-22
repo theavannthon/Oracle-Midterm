@@ -1,0 +1,509 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\0045e8e4-294d-4e5c-b246-7b0a8533170a.jpg",
+      "PackagePath": "staticwebassets\\Customer\\0045e8e4-294d-4e5c-b246-7b0a8533170a.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\016cb0e1-9326-48b0-8559-434428c86140.jpg",
+      "PackagePath": "staticwebassets\\Customer\\016cb0e1-9326-48b0-8559-434428c86140.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\09e1af13-1d17-4bde-8c25-8ef876923e83.jpg",
+      "PackagePath": "staticwebassets\\Customer\\09e1af13-1d17-4bde-8c25-8ef876923e83.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\0ac5ed7a-9a9c-4489-8af3-75260d07d358.jpg",
+      "PackagePath": "staticwebassets\\Customer\\0ac5ed7a-9a9c-4489-8af3-75260d07d358.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\11537281-10cf-41e7-8bff-9dc332fc34e5.jpg",
+      "PackagePath": "staticwebassets\\Customer\\11537281-10cf-41e7-8bff-9dc332fc34e5.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\146341c5-21a4-4c9b-9e0f-2d3d920889c2.jpg",
+      "PackagePath": "staticwebassets\\Customer\\146341c5-21a4-4c9b-9e0f-2d3d920889c2.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\1762d881-34e6-439f-abd1-969336c0d948.jpg",
+      "PackagePath": "staticwebassets\\Customer\\1762d881-34e6-439f-abd1-969336c0d948.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\1cbdb48a-b5c1-4ca2-b397-30b110a99c52.jpg",
+      "PackagePath": "staticwebassets\\Customer\\1cbdb48a-b5c1-4ca2-b397-30b110a99c52.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\20240407225328616.jpg",
+      "PackagePath": "staticwebassets\\Customer\\20240407225328616.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\21858765-fc2e-4a94-91b8-3c46a6b595d0.jpg",
+      "PackagePath": "staticwebassets\\Customer\\21858765-fc2e-4a94-91b8-3c46a6b595d0.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\23558c98-4651-4cde-8af8-f6863da15205.png",
+      "PackagePath": "staticwebassets\\Customer\\23558c98-4651-4cde-8af8-f6863da15205.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\2e4de298-315f-4a30-b5a8-08164fe326ac.jpg",
+      "PackagePath": "staticwebassets\\Customer\\2e4de298-315f-4a30-b5a8-08164fe326ac.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\30bb11ce-a7ac-4f92-b56d-3979e5b92a94.jpg",
+      "PackagePath": "staticwebassets\\Customer\\30bb11ce-a7ac-4f92-b56d-3979e5b92a94.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\33132db7-1e0e-44da-a0b3-6e4f8c0990dc.jpg",
+      "PackagePath": "staticwebassets\\Customer\\33132db7-1e0e-44da-a0b3-6e4f8c0990dc.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\3b16861d-9b6b-42ce-bfb9-0f720a83ba81.jpg",
+      "PackagePath": "staticwebassets\\Customer\\3b16861d-9b6b-42ce-bfb9-0f720a83ba81.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\4280535f-8bdd-4374-ae31-8430bb970c4b.jpg",
+      "PackagePath": "staticwebassets\\Customer\\4280535f-8bdd-4374-ae31-8430bb970c4b.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\446727e0-ad4f-4a75-9bd8-3d89b8967df2.jpg",
+      "PackagePath": "staticwebassets\\Customer\\446727e0-ad4f-4a75-9bd8-3d89b8967df2.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\45a5a856-1eb8-4f0e-aa0b-de766b8c039d.jpg",
+      "PackagePath": "staticwebassets\\Customer\\45a5a856-1eb8-4f0e-aa0b-de766b8c039d.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\45f498ba-5e56-4fab-8120-2847245532ab.jpg",
+      "PackagePath": "staticwebassets\\Customer\\45f498ba-5e56-4fab-8120-2847245532ab.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\467750b9-1a43-416f-b5f0-0b370dc53d15.jpg",
+      "PackagePath": "staticwebassets\\Customer\\467750b9-1a43-416f-b5f0-0b370dc53d15.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\4c14b49c-2cbd-42c2-b753-67d0c7e88611.jpg",
+      "PackagePath": "staticwebassets\\Customer\\4c14b49c-2cbd-42c2-b753-67d0c7e88611.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\509f9e14-1c8b-42d6-a433-1699b92b9fa8.jpg",
+      "PackagePath": "staticwebassets\\Customer\\509f9e14-1c8b-42d6-a433-1699b92b9fa8.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\50b23c6e-1952-46ec-9eca-4e4374b003d9.jpg",
+      "PackagePath": "staticwebassets\\Customer\\50b23c6e-1952-46ec-9eca-4e4374b003d9.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\55b8dd98-d4c9-42ed-a0a7-955467e6c887.jpg",
+      "PackagePath": "staticwebassets\\Customer\\55b8dd98-d4c9-42ed-a0a7-955467e6c887.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\565caef0-36a0-49d1-98a9-f1fe4bcc8537.png",
+      "PackagePath": "staticwebassets\\Customer\\565caef0-36a0-49d1-98a9-f1fe4bcc8537.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\56c031ae-9121-4421-b251-7286241ccc91.jpg",
+      "PackagePath": "staticwebassets\\Customer\\56c031ae-9121-4421-b251-7286241ccc91.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\56f5ba0d-46e8-437a-bccd-b32a21d7b96d.jpg",
+      "PackagePath": "staticwebassets\\Customer\\56f5ba0d-46e8-437a-bccd-b32a21d7b96d.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\616d6b29-6dd3-4801-97b1-f84d1aa6f470.jpg",
+      "PackagePath": "staticwebassets\\Customer\\616d6b29-6dd3-4801-97b1-f84d1aa6f470.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\6396183f-b9ab-4929-b5a5-e8eead7264b2.png",
+      "PackagePath": "staticwebassets\\Customer\\6396183f-b9ab-4929-b5a5-e8eead7264b2.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\6e7d0892-619d-4913-b334-2a0df260bc42.jpg",
+      "PackagePath": "staticwebassets\\Customer\\6e7d0892-619d-4913-b334-2a0df260bc42.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\7279d369-bd7d-41f2-935c-ac363b8a9d81.jpg",
+      "PackagePath": "staticwebassets\\Customer\\7279d369-bd7d-41f2-935c-ac363b8a9d81.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\78c85ff2-c475-4cc9-bd32-ff99cb5b1372.jpg",
+      "PackagePath": "staticwebassets\\Customer\\78c85ff2-c475-4cc9-bd32-ff99cb5b1372.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\7a6429db-5242-47ec-a65a-5225b785d2b4.jpg",
+      "PackagePath": "staticwebassets\\Customer\\7a6429db-5242-47ec-a65a-5225b785d2b4.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\7c3cc209-8c49-4f74-87e2-76f9cc9e98a6.jpg",
+      "PackagePath": "staticwebassets\\Customer\\7c3cc209-8c49-4f74-87e2-76f9cc9e98a6.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\8194853e-c932-4dae-9732-6de8e8ec8c45.jpg",
+      "PackagePath": "staticwebassets\\Customer\\8194853e-c932-4dae-9732-6de8e8ec8c45.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\8fbc4288-9e7c-49e4-aac4-b5203ae1e0e8.jpg",
+      "PackagePath": "staticwebassets\\Customer\\8fbc4288-9e7c-49e4-aac4-b5203ae1e0e8.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\92e4a1e9-02cc-439d-8331-58933a98b79a.jpg",
+      "PackagePath": "staticwebassets\\Customer\\92e4a1e9-02cc-439d-8331-58933a98b79a.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\98a4932c-716a-4702-a673-9dd0cc37b058.png",
+      "PackagePath": "staticwebassets\\Customer\\98a4932c-716a-4702-a673-9dd0cc37b058.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\9a8f7905-2b0a-4498-896f-7f4dee418c10.jpg",
+      "PackagePath": "staticwebassets\\Customer\\9a8f7905-2b0a-4498-896f-7f4dee418c10.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\9bb78ce8-7f45-4abf-96f7-b30398dec8c1.jpg",
+      "PackagePath": "staticwebassets\\Customer\\9bb78ce8-7f45-4abf-96f7-b30398dec8c1.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\9c925355-dec1-4adc-a836-ba7bb182221a.png",
+      "PackagePath": "staticwebassets\\Customer\\9c925355-dec1-4adc-a836-ba7bb182221a.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\a767b4e1-98ac-46c8-b28e-d7dd9b8d3b8c.jpg",
+      "PackagePath": "staticwebassets\\Customer\\a767b4e1-98ac-46c8-b28e-d7dd9b8d3b8c.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\ad239f13-1fbc-4b88-ba16-bda41284844f.jpg",
+      "PackagePath": "staticwebassets\\Customer\\ad239f13-1fbc-4b88-ba16-bda41284844f.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\af30891d-887d-4011-a015-94f8cda03e61.jpg",
+      "PackagePath": "staticwebassets\\Customer\\af30891d-887d-4011-a015-94f8cda03e61.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\b1bc4d77-f4bd-48d5-919b-381631341b78.jpg",
+      "PackagePath": "staticwebassets\\Customer\\b1bc4d77-f4bd-48d5-919b-381631341b78.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\b356902d-4bce-4144-9a55-3ab851c11d3c.jpg",
+      "PackagePath": "staticwebassets\\Customer\\b356902d-4bce-4144-9a55-3ab851c11d3c.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\b37ce4f9-6735-4fe9-af2d-a8453c8b7036.jpg",
+      "PackagePath": "staticwebassets\\Customer\\b37ce4f9-6735-4fe9-af2d-a8453c8b7036.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\b5538c03-e4a6-475b-af45-43f8a24587ad.jpg",
+      "PackagePath": "staticwebassets\\Customer\\b5538c03-e4a6-475b-af45-43f8a24587ad.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\b6db7a21-738e-466f-b214-f0f4464adb0a.jpg",
+      "PackagePath": "staticwebassets\\Customer\\b6db7a21-738e-466f-b214-f0f4464adb0a.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\b72bdece-3ed7-4115-8828-884dd0dc9fca.png",
+      "PackagePath": "staticwebassets\\Customer\\b72bdece-3ed7-4115-8828-884dd0dc9fca.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\bdfc3b17-2c5f-485b-8e63-6579db425a47.jpg",
+      "PackagePath": "staticwebassets\\Customer\\bdfc3b17-2c5f-485b-8e63-6579db425a47.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\cac75db4-8c63-48d0-bf6b-fd3a5bd3b129.jpg",
+      "PackagePath": "staticwebassets\\Customer\\cac75db4-8c63-48d0-bf6b-fd3a5bd3b129.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\d3660032-2678-41a1-8955-e321c30708eb.jpg",
+      "PackagePath": "staticwebassets\\Customer\\d3660032-2678-41a1-8955-e321c30708eb.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\d43ad551-eee1-4c20-8892-5ddcaeb69744.jpg",
+      "PackagePath": "staticwebassets\\Customer\\d43ad551-eee1-4c20-8892-5ddcaeb69744.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\d447b826-fba9-41ee-8241-d3a172c85025.jpg",
+      "PackagePath": "staticwebassets\\Customer\\d447b826-fba9-41ee-8241-d3a172c85025.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\d6de529e-3af3-46e7-9eae-abf1175611ce.jpg",
+      "PackagePath": "staticwebassets\\Customer\\d6de529e-3af3-46e7-9eae-abf1175611ce.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\d7dfb74f-de2e-415e-8f87-a92025b5005d.png",
+      "PackagePath": "staticwebassets\\Customer\\d7dfb74f-de2e-415e-8f87-a92025b5005d.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\dc68df12-57bc-4e36-8221-d41f0278c3d7.jpg",
+      "PackagePath": "staticwebassets\\Customer\\dc68df12-57bc-4e36-8221-d41f0278c3d7.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\de8d51b7-0373-4799-8d31-74687db521cd.jpg",
+      "PackagePath": "staticwebassets\\Customer\\de8d51b7-0373-4799-8d31-74687db521cd.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\e2a9b8ea-b4d2-4a67-8b56-227cfcac0e50.jpg",
+      "PackagePath": "staticwebassets\\Customer\\e2a9b8ea-b4d2-4a67-8b56-227cfcac0e50.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\e523a1cc-4609-4447-82b0-95b1a76323e6.png",
+      "PackagePath": "staticwebassets\\Customer\\e523a1cc-4609-4447-82b0-95b1a76323e6.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\e78864d7-659d-49bc-9996-a040a3f98b24.jpg",
+      "PackagePath": "staticwebassets\\Customer\\e78864d7-659d-49bc-9996-a040a3f98b24.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\e9f2efd2-cc3b-4594-a611-78c9615d36a5.jpg",
+      "PackagePath": "staticwebassets\\Customer\\e9f2efd2-cc3b-4594-a611-78c9615d36a5.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\efee33f2-1dae-42c8-bc85-5af18263c82d.png",
+      "PackagePath": "staticwebassets\\Customer\\efee33f2-1dae-42c8-bc85-5af18263c82d.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\f2231dfb-1b70-41d7-ad6a-3838ad98ec2c.jpg",
+      "PackagePath": "staticwebassets\\Customer\\f2231dfb-1b70-41d7-ad6a-3838ad98ec2c.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\f3a506d5-bbad-4f89-a0c8-97e17c87d17b.jpg",
+      "PackagePath": "staticwebassets\\Customer\\f3a506d5-bbad-4f89-a0c8-97e17c87d17b.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\f4b02a25-0926-428c-a3ed-8a1b24b0f101.jpg",
+      "PackagePath": "staticwebassets\\Customer\\f4b02a25-0926-428c-a3ed-8a1b24b0f101.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\fcb047d0-a946-4db1-9794-839c5d3b134a.jpg",
+      "PackagePath": "staticwebassets\\Customer\\fcb047d0-a946-4db1-9794-839c5d3b134a.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\photo_2023-02-08_23-16-22.jpg",
+      "PackagePath": "staticwebassets\\Customer\\photo_2023-02-08_23-16-22.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\Customer\\photo_2023-10-22_14-56-13 (2).jpg",
+      "PackagePath": "staticwebassets\\Customer\\photo_2023-10-22_14-56-13 (2).jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\19e726d2dfa7e1fc7ec2f99f640081cf.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\19e726d2dfa7e1fc7ec2f99f640081cf.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\avatar4.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\icons.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin-lte\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\admin-lte\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\Year3 (semester2)\\Oracle (Project)\\OracleProjectMiedterm\\OracleProjectMiedterm\\wwwroot\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OracleProjectMiedterm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OracleProjectMiedterm.props",
+      "PackagePath": "build\\OracleProjectMiedterm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OracleProjectMiedterm.props",
+      "PackagePath": "buildMultiTargeting\\OracleProjectMiedterm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OracleProjectMiedterm.props",
+      "PackagePath": "buildTransitive\\OracleProjectMiedterm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
